@@ -33,7 +33,6 @@ eda-analysis/
 ├── main.py          # Main script
 ├── .env             # Data path (not committed to git)
 ├── .gitignore
-├── requirements.txt
 └── results.png      # Output plot (generated after running)
 ```
 
